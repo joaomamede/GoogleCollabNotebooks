@@ -1,1 +1,7 @@
 Collection of google collaboratory notebooks created/modified in the Mamede laboratory at Rush University Medical Center
+
+Used and tested with ND2 files from NIS-elements using the HCA/JOBS settings.
+
+
+Finds Nuclei, and infected cells (GFP+,mRuby+, etc) and calculates the ratio of infection
+ND2_Cellpose_cell_segmentation_2D_images_v0.1.ipynb
